@@ -6,4 +6,8 @@ h1 {
   text-align: center;
   text-indent: 50px;
   color: FireBrick;
-  }
+}
+  
+.daylist {
+  text-align: center;
+}
